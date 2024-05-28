@@ -1,0 +1,15 @@
+c:\Users\Student\OneDrive - Sheldon School\Sixth Form\Home stuff\GitHub\Project-Euler\c#\Problem 1\bin\Debug\net8.0\Problem 1.exe
+c:\Users\Student\OneDrive - Sheldon School\Sixth Form\Home stuff\GitHub\Project-Euler\c#\Problem 1\bin\Debug\net8.0\Problem 1.deps.json
+c:\Users\Student\OneDrive - Sheldon School\Sixth Form\Home stuff\GitHub\Project-Euler\c#\Problem 1\bin\Debug\net8.0\Problem 1.runtimeconfig.json
+c:\Users\Student\OneDrive - Sheldon School\Sixth Form\Home stuff\GitHub\Project-Euler\c#\Problem 1\bin\Debug\net8.0\Problem 1.dll
+c:\Users\Student\OneDrive - Sheldon School\Sixth Form\Home stuff\GitHub\Project-Euler\c#\Problem 1\bin\Debug\net8.0\Problem 1.pdb
+c:\Users\Student\OneDrive - Sheldon School\Sixth Form\Home stuff\GitHub\Project-Euler\c#\Problem 1\obj\Debug\net8.0\Problem 1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Student\OneDrive - Sheldon School\Sixth Form\Home stuff\GitHub\Project-Euler\c#\Problem 1\obj\Debug\net8.0\Problem 1.AssemblyInfoInputs.cache
+c:\Users\Student\OneDrive - Sheldon School\Sixth Form\Home stuff\GitHub\Project-Euler\c#\Problem 1\obj\Debug\net8.0\Problem 1.AssemblyInfo.cs
+c:\Users\Student\OneDrive - Sheldon School\Sixth Form\Home stuff\GitHub\Project-Euler\c#\Problem 1\obj\Debug\net8.0\Problem 1.csproj.CoreCompileInputs.cache
+c:\Users\Student\OneDrive - Sheldon School\Sixth Form\Home stuff\GitHub\Project-Euler\c#\Problem 1\obj\Debug\net8.0\Problem 1.sourcelink.json
+c:\Users\Student\OneDrive - Sheldon School\Sixth Form\Home stuff\GitHub\Project-Euler\c#\Problem 1\obj\Debug\net8.0\Problem 1.dll
+c:\Users\Student\OneDrive - Sheldon School\Sixth Form\Home stuff\GitHub\Project-Euler\c#\Problem 1\obj\Debug\net8.0\refint\Problem 1.dll
+c:\Users\Student\OneDrive - Sheldon School\Sixth Form\Home stuff\GitHub\Project-Euler\c#\Problem 1\obj\Debug\net8.0\Problem 1.pdb
+c:\Users\Student\OneDrive - Sheldon School\Sixth Form\Home stuff\GitHub\Project-Euler\c#\Problem 1\obj\Debug\net8.0\Problem 1.genruntimeconfig.cache
+c:\Users\Student\OneDrive - Sheldon School\Sixth Form\Home stuff\GitHub\Project-Euler\c#\Problem 1\obj\Debug\net8.0\ref\Problem 1.dll
