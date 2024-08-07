@@ -1,0 +1,15 @@
+c:\Users\Student\OneDrive - Sheldon School\Sixth Form\Home stuff\GitHub\Project-Euler\c#\Bodo kinda stinky\bin\Debug\net8.0\Bodo kinda stinky.exe
+c:\Users\Student\OneDrive - Sheldon School\Sixth Form\Home stuff\GitHub\Project-Euler\c#\Bodo kinda stinky\bin\Debug\net8.0\Bodo kinda stinky.deps.json
+c:\Users\Student\OneDrive - Sheldon School\Sixth Form\Home stuff\GitHub\Project-Euler\c#\Bodo kinda stinky\bin\Debug\net8.0\Bodo kinda stinky.runtimeconfig.json
+c:\Users\Student\OneDrive - Sheldon School\Sixth Form\Home stuff\GitHub\Project-Euler\c#\Bodo kinda stinky\bin\Debug\net8.0\Bodo kinda stinky.dll
+c:\Users\Student\OneDrive - Sheldon School\Sixth Form\Home stuff\GitHub\Project-Euler\c#\Bodo kinda stinky\bin\Debug\net8.0\Bodo kinda stinky.pdb
+c:\Users\Student\OneDrive - Sheldon School\Sixth Form\Home stuff\GitHub\Project-Euler\c#\Bodo kinda stinky\obj\Debug\net8.0\Bodo kinda stinky.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Student\OneDrive - Sheldon School\Sixth Form\Home stuff\GitHub\Project-Euler\c#\Bodo kinda stinky\obj\Debug\net8.0\Bodo kinda stinky.AssemblyInfoInputs.cache
+c:\Users\Student\OneDrive - Sheldon School\Sixth Form\Home stuff\GitHub\Project-Euler\c#\Bodo kinda stinky\obj\Debug\net8.0\Bodo kinda stinky.AssemblyInfo.cs
+c:\Users\Student\OneDrive - Sheldon School\Sixth Form\Home stuff\GitHub\Project-Euler\c#\Bodo kinda stinky\obj\Debug\net8.0\Bodo kinda stinky.csproj.CoreCompileInputs.cache
+c:\Users\Student\OneDrive - Sheldon School\Sixth Form\Home stuff\GitHub\Project-Euler\c#\Bodo kinda stinky\obj\Debug\net8.0\Bodo kinda stinky.sourcelink.json
+c:\Users\Student\OneDrive - Sheldon School\Sixth Form\Home stuff\GitHub\Project-Euler\c#\Bodo kinda stinky\obj\Debug\net8.0\Bodo kinda stinky.dll
+c:\Users\Student\OneDrive - Sheldon School\Sixth Form\Home stuff\GitHub\Project-Euler\c#\Bodo kinda stinky\obj\Debug\net8.0\refint\Bodo kinda stinky.dll
+c:\Users\Student\OneDrive - Sheldon School\Sixth Form\Home stuff\GitHub\Project-Euler\c#\Bodo kinda stinky\obj\Debug\net8.0\Bodo kinda stinky.pdb
+c:\Users\Student\OneDrive - Sheldon School\Sixth Form\Home stuff\GitHub\Project-Euler\c#\Bodo kinda stinky\obj\Debug\net8.0\Bodo kinda stinky.genruntimeconfig.cache
+c:\Users\Student\OneDrive - Sheldon School\Sixth Form\Home stuff\GitHub\Project-Euler\c#\Bodo kinda stinky\obj\Debug\net8.0\ref\Bodo kinda stinky.dll

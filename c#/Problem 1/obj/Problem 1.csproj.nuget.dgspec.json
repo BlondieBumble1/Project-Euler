@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Student\\OneDrive - Sheldon School\\Sixth Form\\Home stuff\\GitHub\\Project-Euler\\c#\\Problem 1\\Problem 1.csproj": {}
+    "C:\\Users\\Student\\OneDrive - Sheldon School\\Sixth Form\\Home stuff\\GitHub\\Project-Euler\\c#\\Problem 1\\Problem 1.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Student\\OneDrive - Sheldon School\\Sixth Form\\Home stuff\\GitHub\\Project-Euler\\c#\\Problem 1\\Problem 1.csproj": {
+    "C:\\Users\\Student\\OneDrive - Sheldon School\\Sixth Form\\Home stuff\\GitHub\\Project-Euler\\c#\\Problem 1\\Problem 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Student\\OneDrive - Sheldon School\\Sixth Form\\Home stuff\\GitHub\\Project-Euler\\c#\\Problem 1\\Problem 1.csproj",
+        "projectUniqueName": "C:\\Users\\Student\\OneDrive - Sheldon School\\Sixth Form\\Home stuff\\GitHub\\Project-Euler\\c#\\Problem 1\\Problem 1.csproj",
         "projectName": "Problem 1",
-        "projectPath": "c:\\Users\\Student\\OneDrive - Sheldon School\\Sixth Form\\Home stuff\\GitHub\\Project-Euler\\c#\\Problem 1\\Problem 1.csproj",
+        "projectPath": "C:\\Users\\Student\\OneDrive - Sheldon School\\Sixth Form\\Home stuff\\GitHub\\Project-Euler\\c#\\Problem 1\\Problem 1.csproj",
         "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Student\\OneDrive - Sheldon School\\Sixth Form\\Home stuff\\GitHub\\Project-Euler\\c#\\Problem 1\\obj\\",
+        "outputPath": "C:\\Users\\Student\\OneDrive - Sheldon School\\Sixth Form\\Home stuff\\GitHub\\Project-Euler\\c#\\Problem 1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
